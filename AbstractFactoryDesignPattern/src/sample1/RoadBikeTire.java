@@ -1,0 +1,9 @@
+package sample1;
+
+public class RoadBikeTire implements Tire {
+
+    @Override
+    public int getWidth() {
+        return 23;
+    }
+}
